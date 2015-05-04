@@ -1,9 +1,13 @@
 function newLevel(hasLevel) {
-clientMessage("SeaStructuresPE by DanHerePE,JoePaleto,Xriomedabeast");
+clientMessage("Guardian Mod");
+clientMessage("by:");
+clientMessage("§7DanHerePE");
+clientMessage("§CJoePaleto");
+clientMessage("§3Xriomedabeast");
 }
 
-function useItem(x, y, z, itemId, blockId, side){
+function useItem(x, y, z, itemId, blockId, side) {
 }
 
-function modTick(){
+function modTick() {
 }

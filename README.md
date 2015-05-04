@@ -1,2 +1,2 @@
 # GuardianMod
-Guardian ModPE Script made by me and DanHerePE.
+Guardian ModPE Script made by me, Xriomedabeast, and DanHerePE.
