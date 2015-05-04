@@ -1,5 +1,5 @@
 function newLevel(hasLevel) {
-clientMessage("SeaStructuresPE by DanHerePE,JoePaleto");
+clientMessage("SeaStructuresPE by DanHerePE,JoePaleto,Xriomedabeast");
 }
 
 function useItem(x, y, z, itemId, blockId, side){
